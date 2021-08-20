@@ -1,4 +1,4 @@
-.App {
+/* .App {
   text-align: center;
 }
 
@@ -35,4 +35,9 @@
   to {
     transform: rotate(360deg);
   }
+} */
+
+body {
+  font-family: Tahoma !important;
+  background: url('https://i2.wp.com/himamasta.ub.ac.id/wp-content/uploads/2017/12/Savin-NY-Website-Background-Web.jpg')
 }
